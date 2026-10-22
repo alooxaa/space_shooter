@@ -1,0 +1,14 @@
+/space_shooter
+/space_shooter.exe
+/build/
+/build-*/
+/out/
+/.vs/
+/.vscode/
+/CMakeUserPresets.json
+*.o
+*.obj
+*.pdb
+*.ilk
+.DS_Store
+Thumbs.db
